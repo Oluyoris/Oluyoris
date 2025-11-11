@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluyoris
 - 👀 I’ma software developer (DOT NET C#)
 - 🌱 I’m a website developer (Php Laravel) 
-- 💞️ I’m looking to collaborate on UI/UX AND WEB DEVELOPMENT 
+- 💞️ I’m looking to collaborate SOFTWARE DEVELOPMENT AND WEB DEVELOPMENT 
 - 📫 How to reach me ... owolabioluyori29@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
